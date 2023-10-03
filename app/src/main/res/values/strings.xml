@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Experian</string>
+
+    <string name="Few_things_influencing_score">There are few things influencing Your Score</string>
+    <string name="your_credit_score">Your Credit Score</string>
+    <string name="cards_loans">Card Loan</string>
+</resources>

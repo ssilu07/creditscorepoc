@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_purple">#1D4F91</color>
+    <color name="button_purple">#AF1685</color>
+    <color name="red">#F13D3D</color>
+    <color name="yellow">#FFD166</color>
+    <color name="primary_gray">#636688</color>
+    <color name="tertiary_teal">#00B2A9</color>
+    <color name="teal_2">#0081A6</color>
+    <color name="orange">#FF8F1C</color>
+    <color name="lightred">#EA7635</color>
+    <color name="lightgreen">#34A853</color>
+    <color name="extremelightred">#F8B793</color>
+    <color name="extremelightgreen">#90EDA9</color>
+    <color name="darkgreen">#009F4D</color>
+    <color name="light_blue_txt">#6773BA</color>
+    <color name="boxgrey">#EFF0F3</color>
+    <color name="gray">#D6D3D3</color>
+    <color name="dark_gray">#8C8A8A</color>
+    <color name="light_blue">#1D4F91</color>
+    <color name="gray_light">#DEDEDE</color>
+    <color name="purple_dark">#6D2077</color>
+    <color name="light_gray">#F5F7FB</color>
+    <color name="pink_dark">#AF1685</color>
+    <color name="gray_light_few">#F5F5F5</color>
+    <color name="gray_light_few_2">#F4F4F4</color>
+    <color name="primaryGray">#636688</color>
+
+    <color name="textgreay">#7B7B7B</color>
+    <color name="redcross">#E4002B</color>
+    <color name="dark_Pink">#E63888</color>
+    <color name="progressbar_color">#426DA9</color>
+
+
+</resources>
